@@ -1,0 +1,12 @@
+#box>p
+{
+	color: red;
+}
+#box+p
+{
+	color: cyan;
+}
+#box ~ p
+{
+	color: gray;
+}

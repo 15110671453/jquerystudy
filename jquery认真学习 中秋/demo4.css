@@ -1,0 +1,37 @@
+
+/*群组选择器*/
+
+div , p , strong,#box,.pox
+{
+	color: red;
+}
+
+/*后代选择器*/
+ul li a
+{
+	color: cyan;
+}
+
+/*通配符选择器*/
+
+
+*
+{
+
+}
+/*class 不同标签时 标签名限定*/
+div.box
+{
+	
+}
+/*多个class 选择器*/
+.box.pox
+{
+
+}
+/*群组class 选择器*/
+ .box ,.pox
+ {
+
+
+ }
